@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="main/eda7a0478e1919234a453ac6c5166568.gif" width="25%" />
