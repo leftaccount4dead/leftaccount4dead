@@ -5,12 +5,12 @@
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` bipolarfedd `
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Python+%26+JavaScript+Developer;Linux+%7C+Automation+%7C+AI;Building+things+that+probably+shouldn't+exist;Always+experimenting+with+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=not+everything+needs+an+explanation;building+something+out+of+nothing;probably+working+on+something;just+another+side+project)](https://git.io/typing-svg)
 
 ---
 
 <a href="https://discord.com/users/1474837366094172281">
-<img src="https://lanyard.cnrad.dev/api/1474837366094172281?theme=dark&bg=000000&animated=true" alt="Discord Presence" />
+<img src="https://lanyard.cnrad.dev/api/1474837366094172281?theme=dark&bg=000000&animated=true" />
 </a>
 
 <br><br>
@@ -24,77 +24,32 @@
 
 ---
 
-## About Me
+<sub>somewhere between breaking things and making them work.</sub>
 
-```yaml
-username: bipolarfedd
-alias: Real Celebrity
-interests:
-  - Software development
-  - Linux & system customization
-  - AI & local LLMs
-  - Automation & bots
-  - Web development
-  - Cybersecurity labs
-  - Virtualization
-```
+<br>
 
-I spend my time experimenting with software, building projects, breaking things, and figuring out how to make them work again.
-
-I enjoy working with Linux, building automation tools, experimenting with AI models, and creating projects ranging from web apps to bots and system utilities.
+<sub>Python · JavaScript · Go · Linux · whatever else I feel like messing with</sub>
 
 ---
 
-## Tech Stack
+### `> currently messing with`
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=py,js,ts,go,html,css,cpp&theme=dark" />
-</p>
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,bash,vscode,discord,docker,nodejs,nextjs,react&theme=dark" />
-</p>
+AI / tooling / automation / web / linux
 
 ---
 
-## What I'm Working With
+### `> stack`
 
-- 🐧 Linux environments, customization & system tooling
-- 🤖 AI, local LLMs & AI-assisted coding
-- 🛠️ Python utilities, automation & bots
-- 🌐 Web apps, APIs & frontend development
-- 🔬 Virtual machines, testing & experimentation
+<img src="https://skillicons.dev/icons?i=py,js,ts,go,html,css,cpp,linux,kali,git,github,bash,nodejs,nextjs&theme=dark" />
 
 ---
 
-## Projects & Experiments
+### `> projects`
 
-> I build, experiment, and occasionally break things in the process.
-
-- **AI & Automation** — AI-assisted tools, local models and automation projects.
-- **Web Development** — Websites, dashboards, APIs and other web-based projects.
-- **Bots & Utilities** — Discord bots, scripts, and small tools.
-- **Linux & Systems** — Linux configurations, system tools, and environment experiments.
+*projects, experiments, and things that started as an idea.*
 
 ---
 
-## Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,ts,docker&theme=dark" />
-</p>
-
----
-
-<div align="center">
-
-### Contact
-
-Feel free to reach out.
+<sub>no roadmap. no limits. just code.</sub>
 
 </div>
-
-</div>
-```
