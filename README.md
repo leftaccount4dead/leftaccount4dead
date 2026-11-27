@@ -10,8 +10,9 @@
 ---
 
 <a href="https://discord.com/users/1474837366094172281">
-<img src="https://lanyard.cnrad.dev/api/1474837366094172281?theme=dark&bg=000000&animated=true" />
+  <img src="https://lanyard.cnrad.dev/api/1474837366094172281?theme=dark&bg=000000&animated=true&borderRadius=8px&idleMessage=probably%20doing%20something" />
 </a>
+
 
 <br><br>
 
