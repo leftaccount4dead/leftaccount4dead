@@ -1,3 +1,5 @@
+<div align="center">
+
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` bipolarfedd `
 
