@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="main/ledger.jpg" width="25%" />
-
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` bipolarfedd `
 
