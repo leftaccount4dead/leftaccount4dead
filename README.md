@@ -1,9 +1,12 @@
 <div align="center">
 
+
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` bipolarfedd `
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=not+everything+needs+an+explanation;building+something+out+of+nothing;probably+working+on+something;just+another+side+project)](https://git.io/typing-svg)
+
+<img src="main/ledger.jpg" width="25%" />
 
 ---
 
