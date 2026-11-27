@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="main/eda7a0478e1919234a453ac6c5166568.gif" width="25%" />
+<img src="main/ledger.jpg" width="25%" />
 
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` bipolarfedd `
