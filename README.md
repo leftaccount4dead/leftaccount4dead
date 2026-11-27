@@ -10,9 +10,8 @@
 ---
 
 <a href="https://discord.com/users/1474837366094172281">
-  <img src="https://lanyard.cnrad.dev/api/1474837366094172281?theme=dark&bg=000000&animated=true&borderRadius=8px&idleMessage=probably%20doing%20something" />
+  <img align="center" src="https://lanyard.kyrie25.dev/api/1474837366094172281?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false"/>
 </a>
-
 
 <br><br>
 
