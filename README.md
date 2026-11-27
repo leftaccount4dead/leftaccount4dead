@@ -42,8 +42,6 @@ AI / tooling / automation / web / linux
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,go,html,css,cpp,linux,kali,git,github,bash,nodejs,nextjs&theme=dark" />
 
----
-
 ### `> projects`
 
 *projects, experiments, and things that started as an idea.*
