@@ -50,6 +50,4 @@ AI / tooling / automation / web / linux
 
 ---
 
-<sub>no roadmap. no limits. just code.</sub>
-
 </div>
